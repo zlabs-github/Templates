@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ColorPickerPreference.iml" filepath="$PROJECT_DIR$/.idea/modules/ColorPickerPreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ColorPickerPreference/ColorPickerPreference.ColorPickerPreference.iml" filepath="$PROJECT_DIR$/.idea/modules/ColorPickerPreference/ColorPickerPreference.ColorPickerPreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample/ColorPickerPreference.Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample/ColorPickerPreference.Sample.iml" />
+    </modules>
+  </component>
+</project>
